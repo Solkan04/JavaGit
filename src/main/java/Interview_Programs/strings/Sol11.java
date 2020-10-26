@@ -1,4 +1,4 @@
 package Interview_Programs.strings;
 
-public class sol1 {
+public class Sol11 {
 }
